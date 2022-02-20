@@ -1,8 +1,0 @@
-qwerty: test from local
-qqq : from 2 local
-3rd edit from remote Browser
-<<<<<<< HEAD
-4th test
-=======
-new test 4
->>>>>>> 7780b811c467ab2ef3648905aa40dc9bb7210119
